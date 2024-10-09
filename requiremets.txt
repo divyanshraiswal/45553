@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+scrapegraphai
+langchain-huggingface
+playwright
+nest-asyncio
